@@ -2,5 +2,5 @@
 
 da riga di comando:
 
-javac setteNani.java per compilare
-java setteNani       per esegguire
+1) javac setteNani.java per compilare
+2) java setteNani       per eseguire
